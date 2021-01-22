@@ -27,3 +27,36 @@ body {
     text-align: center;
     font-size: 10vw;
 }
+
+
+/*Buttons*/
+
+#controlsContainer {
+    margin-bottom: 100px;
+    justify-content: center;
+}
+
+.control {
+    color: #fff;
+    background-color: #d7a04e;
+    height: 10vw;
+    width: 10vw;
+    border-radius: 100%;
+    text-align: center;
+    padding: 20% 0;
+    font-size: 2.5vw;
+    cursor: pointer;
+}
+
+.control:active {
+    background-color: #fff;
+    color: #d7a04e;
+}
+
+
+/*Laps*/
+
+#laps {
+    max-height: 270px;
+    overflow-y: scroll;
+}
