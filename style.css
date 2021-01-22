@@ -1,0 +1,29 @@
+body {
+    background: url(imgs/background.jpg) center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+
+/*title*/
+
+#header {
+    text-align: center;
+    font-size: 7vw;
+}
+
+
+/*Lap*/
+
+#lap {
+    text-align: right;
+    font-size: 4vw;
+}
+
+
+/*Time*/
+
+#time {
+    text-align: center;
+    font-size: 10vw;
+}
